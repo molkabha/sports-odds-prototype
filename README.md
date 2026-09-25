@@ -224,12 +224,3 @@ If this became a real 2-week sprint, the next priorities would be:
    managed platform (Fly.io, Railway) with a CI pipeline.
 8. **Monitoring** — add structured logging and basic alerting for API failures
    and signal anomalies.
-
----
-
-## Assessment Scope
-
-This prototype was built specifically for the technical assessment. It is
-intentionally scoped to 4–6 hours of work. The goal was to demonstrate good
-engineering judgment — clean architecture, correct logic, clear tradeoffs —
-rather than feature completeness.
